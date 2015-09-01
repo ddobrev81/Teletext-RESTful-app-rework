@@ -1,0 +1,4 @@
+name = ttv_teletext
+description = Creates custom teletext xml
+core = 7.x
+package = Propeople
